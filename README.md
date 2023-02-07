@@ -1,1 +1,1 @@
-# My golang notes, nothing much
+# my golang notes, nothing much
